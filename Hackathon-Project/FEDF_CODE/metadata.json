@@ -1,0 +1,6 @@
+{
+  "name": "Student Admission Portal",
+  "description": "A modern, professional, fully responsive Student Admission Portal build with React, Tailwind CSS, and React Router DOM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
